@@ -14,7 +14,7 @@ ___
 
 
 ___
-**OBJECTIVES**
+📌**OBJECTIVES**
 
 Aspiring automation specialist with strong Make.com,zapier,n8n and refelvance AI  skills, eager 
 
@@ -24,8 +24,10 @@ ___
 **🔨SKILLS**
 
 . **Workflow Automation**: make.com , zapier ,n8n e.t.c.
+
 . **Scripting** : javascript(basic), Python(intermediate)
-. **Tools** :
+
+. **Tools** : Google sheets, Airtable, notions and webhooks
 
 ___
 **💡PORJECTS**
