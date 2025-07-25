@@ -39,6 +39,13 @@ ___
 Built a complete B2B laeds generation system that the process of identifying ,enriching,and qualifying business leads using 
 
 no code tools 
+**Highlights**
+
+Scraped and filtered leads from LinkedIn using Phantombuster (job titles, industries, and company size)
+
+Integrated Airtable as a CRM to store and manage lead data
+
+Automated personalized outreach through Make.com and Gmail, including follow-up messages
 
 ✅  **AI-Powered Customer Support Bot System**
 
