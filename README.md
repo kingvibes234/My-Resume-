@@ -63,16 +63,11 @@ Tools: Make.com or n8n + ChatGPT + WhatsApp API (Twilio or Ultramsg) + Airtable
 
 ⚒️**WORK EXPERIENCE** :
 
-AI Automation Expert with over 3 years of experience (since 2022) helping businesses eliminate repetitive tasks and 
-
+AI Automation Expert with over 3 years of experience (since 2022) helping businesses eliminate repetitive tasks and
 reduce operational costs through no-code and low-code automation. I specialize in building custom workflows that
-
 streamline internal processes, reduce the need for manual labor, and boost overall business efficiency.
-
 I’ve designed and deployed dozens of automation systems for business owners—ranging from lead generation and client
-
 onboarding to email marketing and customer support—allowing them to scale faster, work smarter, and focus on high-
-
 value tasks.
 
 **EDUCATION**: **BSC** in computer Science(in progress)
