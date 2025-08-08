@@ -47,6 +47,8 @@ Integrated Airtable as a CRM to store and manage lead data
 
 Automated personalized outreach through Make.com and Gmail, including follow-up messages
 
+https://us2.make.com/365108/scenarios/1691045/edit
+
 ✅  **AI-Powered Customer Support Bot System**
 
 What it does:
@@ -58,8 +60,6 @@ Supports WhatsApp, Facebook Messenger, email, or web chat
 Escalates complex issues to a human agent with full context
 
 Tools: Make.com or n8n + ChatGPT + WhatsApp API (Twilio or Ultramsg) + Airtable
-
-https://us2.make.com/365108/scenarios/1691045/edit
 
 
 ⚒️**WORK EXPERIENCE** :
